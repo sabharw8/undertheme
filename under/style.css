@@ -527,6 +527,32 @@ a:active {
 }
 
 /*--------------------------------------------------------------
+8.1 Header
+
+--------------------------------------------------------------*/
+.site-branding {
+	7rem 0;
+	text-align: center;
+	background: #FFA500;
+}
+
+.site-title {
+	
+	font-weight: 500;
+	font-size: 30px;
+	font-size: 3.5rem;
+	text-transform: uppercase;
+	line-height: normal;
+	padding-bottom: 1rem;
+}
+
+.site-description {
+	
+	font-weight: 100;
+	font-size: 30px;
+	font-size: 2rem;
+}
+/*--------------------------------------------------------------
 9.0 Widgets
 --------------------------------------------------------------*/
 .widget {
