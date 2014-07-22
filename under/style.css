@@ -537,6 +537,16 @@ a:active {
 	background: #FFA500;
 }
 
+.title-box {
+	
+	width: 500px;
+	max-width: 70%;
+	padding: 4rem;
+	margin: 0 auto;
+	border: solid 1px #000000;
+	border: solix 1px hsla(0, 0%, 100%, .4);
+}
+
 .site-title {
 	
 	font-weight: 500;
@@ -552,6 +562,11 @@ a:active {
 	font-weight: 100;
 	font-size: 30px;
 	font-size: 2rem;
+}
+
+.site-description {
+	color: #280000;
+	color:hsl (0, 0%, 100%);
 }
 /*--------------------------------------------------------------
 9.0 Widgets
